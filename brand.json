@@ -1,0 +1,11 @@
+{
+  "brand_name": "BuilderDrop",
+  "tagline": "Daily AI tools, MCP servers, and agent drops for vibe coders",
+  "from_email_placeholder": "hello@builderdrop.example",
+  "site_url_placeholder": "https://builderdrop.example",
+  "shop_url_placeholder": "https://builderdrop.example/shop/",
+  "sponsor_url_placeholder": "https://builderdrop.example/sponsor/",
+  "signup_form_action_placeholder": "https://SUBSCRIBE_FORM_PLACEHOLDER.example/subscribe",
+  "agent_price_usd": 7,
+  "notes": "Swap brand_name here (and rebuild site from templates) to rename later."
+}
